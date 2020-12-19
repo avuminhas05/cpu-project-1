@@ -1,2 +1,2 @@
-# cpu-project-1
-first part of designing and implementing CPU
+# cpu-project
+Implementing a MIPS 5-stage pipeline CPU in Logism
